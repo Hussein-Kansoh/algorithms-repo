@@ -1,1 +1,1 @@
-# algorithms-repo
+# algorithms-soduko-solver
